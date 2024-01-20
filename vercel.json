@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "https://allenspring.vercel.app/en" },
+    {
+      "source": "/tw2024",
+      "destination": "https://allenspring.vercel.app/en/tw2024"
+    }
+  ]
+}
